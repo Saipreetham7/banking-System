@@ -1,0 +1,62 @@
+body {
+    font-family: Poppins;
+    margin: 0;
+}
+
+.sect {
+    padding: 50px;
+}
+
+.waves-effect {
+    margin-top: 30px;
+}
+
+.nav ul li a {
+    text-decoration: none;
+}
+
+.nav ul li a:hover {
+    /* text-decoration: none; */
+    /* color: ; */
+    font-weight: 900;
+}
+
+.head {
+    top: 0;
+    padding: 0.5px;
+    /* font-family: "Work Sans"; */
+    background: lightgray;
+    /* font-family: 'Charis SIL', serif; */
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+}
+
+.head h2 {
+    font-family: 'Charis SIL', serif;
+}
+
+.footer {
+    background: lightgray;
+    margin-bottom: 0;
+    bottom: 0;
+    padding: 10px;
+}
+
+.info {
+    font-weight: 500;
+}
+
+.nav1 {
+    background-color: #33ace3;
+}
+
+.header1 {
+    background-color: #F9F3EE
+}
+
+.textcolor {
+    background-color: #F9CEEE
+}
+
+.nav2 {
+    color: #112B3C;
+}
